@@ -20,7 +20,7 @@
 
 #include <lcm/lcm-cpp.hpp>
 
-#include "images_t.hpp"
+#include "bot_core/images_t.hpp"
 
 
 LcmLogReader::LcmLogReader(std::string file, bool flipColors)
